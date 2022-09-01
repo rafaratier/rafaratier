@@ -25,7 +25,7 @@ Meu foco é trabalhar em projetos inovadores e excitantes e expandir meus conhec
 </div>
 
 ##
-
-[![Rafa's stats](https://github-readme-stats.vercel.app/api?username=rafaratier&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/rafaratier/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaratier&theme=dark)](https://github.com/rafaratier/github-readme-stats)
-
+<div href="https://github.com/rafaratier">
+<img height="280em" src="https://github-readme-stats.vercel.app/api?username=rafaratier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaratier&theme=dark"/>
+</div>
