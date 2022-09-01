@@ -16,5 +16,5 @@ My focus is to work on exciting and innovative projects while also expanding my 
 ##
 
 [![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaratier&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/rafaratier/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaratier&theme=dark)](https://github.com/rafaratier/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaratier&theme=dark&count_private=true)](https://github.com/rafaratier/github-readme-stats)
 
