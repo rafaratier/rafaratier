@@ -1,6 +1,16 @@
-### Hi there, i'm Rafael Pereira 👋
+# Hi there, i'm Rafael Pereira 👋
 👨‍💻I'm a FullStack Web Developer and i'm currently studying at Trybe.<br>
 My focus is to work on exciting and innovative projects while also expanding my knowledge on architecture and design patterns. 👷🏼‍♂️
+
+## 👨‍💻Olá, eu sou o Rafael Pereira. 👋<br>
+Meu foco é trabalhar em projetos inovadores e excitantes e expandir meus conhecimentos sobre arquitetura de software e padrões de projeto. 👷🏼‍♂️
+
+<div>
+<a href="https://www.linkedin.com/in/rafael-pereira-05304b223/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+</div>
+
 ##
 <div style="display: inline_block"><br>
 <img align="center" height="30" width=100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -16,6 +26,6 @@ My focus is to work on exciting and innovative projects while also expanding my 
 
 ##
 
-[![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaratier&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/rafaratier/github-readme-stats)
+[![Rafa's stats](https://github-readme-stats.vercel.app/api?username=rafaratier&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/rafaratier/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaratier&theme=dark)](https://github.com/rafaratier/github-readme-stats)
 
