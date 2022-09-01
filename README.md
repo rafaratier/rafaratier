@@ -27,5 +27,5 @@ Meu foco é trabalhar em projetos inovadores e excitantes e expandir meus conhec
 ##
 <div href="https://github.com/rafaratier">
 <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaratier&theme=dark"/>
-<img height="240em" src="https://github-readme-stats.vercel.app/api?username=rafaratier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=rafaratier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
