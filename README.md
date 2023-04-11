@@ -1,9 +1,9 @@
 # Hi there, i'm Rafael Pereira 👋
-👨‍💻I'm a FullStack Web Developer and i'm currently studying at Trybe.<br>
+👨‍💻I'm a FullStack Web Developer.<br>
 My focus is to work on exciting and innovative projects while also expanding my knowledge on architecture and design patterns. 👷🏼‍♂️
 
 ## 👨‍💻Olá, eu sou o Rafael Pereira. 👋<br>
-Sou desenvolvedor Web FullStack e atualmente estudo na Trybe!
+Sou desenvolvedor Web FullStack!
 Meu foco é trabalhar em projetos inovadores e excitantes e expandir meus conhecimentos sobre arquitetura de software e padrões de projeto. 👷🏼‍♂️
 
 <div>
