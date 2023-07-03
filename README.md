@@ -6,7 +6,7 @@ My focus is to work on exciting and innovative projects while also expanding my 
 
 ## 👨‍💻Olá, eu sou o Rafael Pereira. 👋<br>
 
-Sou desenvolvedor desenvolvedor de software!
+Sou desenvolvedor de software!
 
 Meu foco é trabalhar em projetos inovadores e excitantes e expandir meus conhecimentos sobre arquitetura de software e padrões de projeto. 👷🏼‍♂️
 
