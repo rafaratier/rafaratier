@@ -18,17 +18,4 @@ Tenho interesse em .Net e C#, mas pretendo mergulhar em Go em um futuro próximo
 Sinta-se livre para entrar em contato comigo sobre esses ou outros assuntos! :smiley:
 
 
-<div>
-<a href="https://www.linkedin.com/in/rafael-pereira-05304b223/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-</div>
-
-
-##
-<div href="https://github.com/rafaratier">
-<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaratier&theme=dark"/>
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=rafaratier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
 ![](https://hit.yhype.me/github/profile?user_id=84300977)
