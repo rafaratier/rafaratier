@@ -8,7 +8,7 @@ My focus is to work on exciting and innovative projects while also expanding my 
 ## 👨‍💻Olá, eu sou o Rafael Pereira. 👋<br>
 
 Sou desenvolvedor de software! Atualmente estou cursando bacharelado em Ciência da Computação.
-Também sou formado pela Turma XP da Trybe em desevolvimento web fullstack!
+Também sou formado pela Turma XP da Trybe em desenvolvimento web fullstack!
 
 Meu foco é trabalhar em projetos inovadores e excitantes e expandir meus conhecimentos sobre arquitetura de software e padrões de projeto. 👷🏼‍♂️
 
